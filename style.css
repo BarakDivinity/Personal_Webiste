@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+body{
+    margin: 0;
+}
+
+.section1{
+    background-image: url("images/1.jpg");
+    height: 800px;
+}
+
+
+.heading, .contact{
+    font-family: "Dancing Script", "cursive";
+}
+
+.intro{
+    font-family: "DM Sans", sans-serif;
+}
+
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p{
+    font-family: "Poppins", sans-serif;
+    color: #405154;
+}
+
